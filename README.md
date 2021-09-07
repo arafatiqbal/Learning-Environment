@@ -7,4 +7,5 @@ You can add an assignment to a course, send and email about an assignment, displ
 # How to use
 
 Compile with g++ *.cpp
+
 Run with ./a.out
