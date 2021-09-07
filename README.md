@@ -1,4 +1,4 @@
-# Learning-Envrionment
+# Learning-Environment
 
 This is a learning environment created in C++, with the use of inheritance, as well as linked list data structure. 
 
